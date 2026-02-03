@@ -1,6 +1,6 @@
 # 3D Printing
 
-3D printing is one of the most common advanced manufacturing technique that is used in VexU allowing teams to make complex parts to suit use cases. This technology allows for rapid prototyping, giving competitors the flexibility to iterate on designs quickly and affordably. Not only does this enhance the capability to fine-tune robots for optimal performance, but it also allows for low cost manufacturing.&#x20;
+3D printing is one of the most common advanced manufacturing technique that is used in VexU allowing teams to make complex parts to suit use cases. This technology allows for rapid prototyping, giving competitors the flexibility to iterate on designs quickly and affordably. Not only does this enhance the capability to fine-tune robots for optimal performance, but it also allows for low cost manufacturing. Unfortunately, for the 2025 to 2026 VEX Pushback season, 3D printed parts for either functional or decorative uses are prohibited for V5RC.&#x20;
 
 ## Best Practices
 
